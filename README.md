@@ -9,7 +9,7 @@ It takes 22 biomedical voice parameters as input and provides an instant predict
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Sushant-Dagar/Parkinsons-Disease-Detection.git
+git clone https://github.com/Apple1478/Parkinsons-Disease-Detection.git
 cd Parkinsons-Disease-Detection
 
 2. Install required packages
